@@ -37,24 +37,25 @@
 
 ## 🚀 Featured Projects
 
-- **[Memory Mate](#)** – A smart reminder app for birthdays, anniversaries & more  
-- **[Formonk](#)** – Drag-and-drop form builder with code export in Tailwind, Bootstrap, CSS & JSX  
-- **[Weight to Faith](#)** – Diet & health challenge platform with macro tracking  
-- **[Custom WooCommerce Solutions](#)** – Advanced product filtering, category management & checkout flows  
+- **[Formonk](https://formonk.vercel.app/)** – Drag-and-drop form builder with code export in Tailwind, Bootstrap, CSS & JSX  
+- **[Memory Mate](https://mate.fabbythemes.com/)** – Smart reminder app for birthdays, anniversaries & special events  
+- **[Luxury Drip](https://luxury-drip.it/)** – Premium fashion eCommerce platform with a sleek UI and smooth checkout  
+- **[RGV Obituary](https://rgv-obituary.vercel.app/)** – Community obituary platform with easy posting and search features  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonahmmed&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahmmed&layout=compact&theme=tokyonight)
+![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawon111&count_private=true&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon111&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=shawon111&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/YOURUSERNAME)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:shawonahmmed19@gmail.com)  
 
 ---
 
