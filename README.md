@@ -54,7 +54,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/YOURUSERNAME)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=fff)](www.linkedin.com/in/shawon-ahmmed-987a68226)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:shawonahmmed19@gmail.com)  
 
 ---
